@@ -1,0 +1,38 @@
+🛠️ Tools Used in the Project
+
+
+💻 1. Programming Language
+Python
+Main language used to build the project
+Easy for ML + web apps.
+
+
+⚙️ 2. Core Libraries / Frameworks
+Streamlit
+👉 Used to build the interactive web application UI
+👉 Handles input box, output display, and layout
+scikit-learn
+👉 Used for Linear Regression model
+👉 Helps in predicting temperature
+NumPy
+👉 Used for array operations and data handling
+👉 Converts input data into ML-friendly format
+Plotly
+👉 Used to create interactive graphs
+👉 Enables zoom, hover, and dynamic visualization.
+
+
+🧰 3. Development Tools
+VS Code (Recommended IDE)
+👉 For writing and running code
+Terminal / Command Prompt
+👉 To install libraries and run project
+
+
+🌐 4. Version Control
+Git & GitHub
+👉 To upload and manage your project online
+👉 Makes your project visible to recruiters
+
+
+“I used Python with Streamlit for the UI, scikit-learn for machine learning, NumPy for data processing, and Plotly for interactive visualization.”
